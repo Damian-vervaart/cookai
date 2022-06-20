@@ -133,7 +133,8 @@ h1{
 .third img{
     width: 53%;
     height: 630px;
-    object-fit: cover;
+    -o-object-fit: cover;
+       object-fit: cover;
 }
 
 .second-heading{
@@ -165,7 +166,8 @@ h1{
 .fourth img{
     width: 51%;
     height: 630px;
-    object-fit: cover;
+    -o-object-fit: cover;
+       object-fit: cover;
 }
 
 #read-more2 a{
@@ -200,3 +202,4 @@ h1{
     justify-content: flex-end;
     padding-right: 120px;
 }
+
